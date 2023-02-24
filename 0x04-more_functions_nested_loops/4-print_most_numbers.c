@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - prints
- * owend by Bwave ICT
+ * Job Mulugeta's work
  * Return: void
  */
 
